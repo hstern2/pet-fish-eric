@@ -1,4 +1,4 @@
-# pet-fish-eric
+# Pet Fish Eric
 ## Sample Introductory Python Code
 
 Files ending in `.py` are ordinary scripts, files ending in `.ipynb` are notebooks.
