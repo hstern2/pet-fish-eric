@@ -15,3 +15,6 @@ Files ending in `.py` are ordinary scripts, files ending in `.ipynb` are noteboo
 |08|`if` statements|
 |09|`while` loops|
 |10|`for` loops|
+|11|math library|
+|12|reading and writing files|
+
