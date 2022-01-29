@@ -1,4 +1,7 @@
 # Pet Fish Eric
+
+[Why the name?](http://montypython.50webs.com/scripts/Series_2/84.htm)
+
 ## Sample Introductory Python Code
 
 ||description|
