@@ -22,6 +22,7 @@
 #print(a >= 12)
 
 ## chained comparisons
+# need to define b and c!
 #print(36 < a < b < c < 38)
 
 ## Boolean operators
