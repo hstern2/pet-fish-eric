@@ -19,4 +19,6 @@
 |11|math library|
 |12|reading and writing files|
 |13|command-line arguments|
+|14|regular expressions|
+|15|functions|
 
