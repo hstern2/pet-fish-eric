@@ -22,3 +22,4 @@
 |14|regular expressions|
 |15|functions|
 |16|exceptions|
+|17|classes and objects|
