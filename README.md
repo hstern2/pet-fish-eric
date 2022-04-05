@@ -23,3 +23,4 @@
 |15|functions|
 |16|exceptions|
 |17|classes and objects|
+|18|matplotlib|
