@@ -27,3 +27,4 @@
 |19|pandas (Python Data Analysis Library) - part 1|
 |20|pandas (Python Data Analysis Library) - part 2|
 |21|pandas (Python Data Analysis Library) - part 3|
+|22|sudoku :)|
