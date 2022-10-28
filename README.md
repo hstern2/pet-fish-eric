@@ -24,3 +24,6 @@
 |16|exceptions|
 |17|classes and objects|
 |18|matplotlib|
+|19|pandas (Python Data Analysis Library) - part 1|
+|20|pandas (Python Data Analysis Library) - part 2|
+|21|pandas (Python Data Analysis Library) - part 3|
